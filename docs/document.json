@@ -1,0 +1,41 @@
+{
+    "Documents": [
+        {
+            "id": "31de16b51aa73468",
+            "name": "umdapi-stg.terra.internal",
+            "start_time": 1.603121419907E9,
+            "trace_id": "1-5f8db10b-763de7af388beeca47903c8f",
+            "end_time": 1.60312141991E9,
+            "parent_id": "31364eac8118fe5c",
+            "inferred": true,
+            "http": {
+                "request": {
+                    "url": "http://umdapi-stg.terra.internal/umd/service/v3/US/programs?query=genres%253D%2522Mystery%2522andprogram_type%253D%2522show%252Cmovie%2522&lang=en-US&s2scaller=TERRA-S2S2019-001&modelid=18_KANTSU_UHD_BASIC&limit=5",
+                    "method": "GET"
+                },
+                "response": {
+                    "status": 200,
+                    "content_length": 19830
+                }
+            }
+        },
+        {
+            "id": "103692b93856deaf",
+            "name": "stg_terra@stg-terra.cluster-ciiq1lf9iy9p.us-east-1.rds.amazonaws.com",
+            "start_time": 1.603121419904E9,
+            "trace_id": "1-5f8db10b-763de7af388beeca47903c8f",
+            "end_time": 1.603121419904E9,
+            "parent_id": "5cb49e08ee177187",
+            "inferred": true,
+            "sql": {
+                "url": "jdbc:mysql://stg-terra.cluster-ciiq1lf9iy9p.us-east-1.rds.amazonaws.com/stg_terra?autoReconnection=true&useSSL=false",
+                "database_type": "MySQL",
+                "database_version": "5.7.12-log",
+                "driver_version": "mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)",
+                "user": "stg_terra@10.16.6.90",
+                "preparation": "statement"
+            },
+            "origin": "Database::SQL"
+        }
+    ]
+}

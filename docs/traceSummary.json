@@ -1,0 +1,92 @@
+{
+    "TraceSummaries": [
+        {
+            "Id": "1-5f8db10b-763de7af388beeca47903c8f",
+            "Duration": 0.041,
+            "ResponseTime": 0.041,
+            "HasFault": false,
+            "HasError": false,
+            "HasThrottle": false,
+            "IsPartial": false,
+            "Http": {
+                "HttpURL": "http://terraapi-stg.samsungqbe.com/terra/service/v3/preview",
+                "HttpStatus": 200,
+                "HttpMethod": "GET",
+                "UserAgent": "com.samsung.tv.UGBridge/1.20.08202",
+                "ClientIp": "70.94.82.132"
+            },
+            "Annotations": {
+                "URL": [
+                    {
+                        "AnnotationValue": {
+                            "StringValue": "http://terraapi-stg.samsungqbe.com/terra/service/v3/preview?lineupid=&headendid=&devicetype=&countrycode=US&vdlangcode=en_US&modelid=18_KANTSU_UHD_BASIC&duid=X3X2QKBHQAMZ3"
+                        }
+                    }
+                ],
+                "duid": [
+                    {
+                        "AnnotationValue": {
+                            "StringValue": "X3X2QKBHQAMZ3"
+                        }
+                    }
+                ]
+            },
+            "Users": [],
+            "ResourceARNs": [],
+            "InstanceIds": [],
+            "AvailabilityZones": [],
+            "EntryPoint": {
+                "Name": "terraapi-stg.samsungqbe.com",
+                "Names": [
+                    "terraapi-stg.samsungqbe.com"
+                ],
+                "Type": "AWS::ECS::Container"
+            },
+            "FaultRootCauses": [],
+            "ErrorRootCauses": [],
+            "ResponseTimeRootCauses": [
+                {
+                    "Services": [
+                        {
+                            "Name": "terraapi-stg.samsungqbe.com",
+                            "Names": [
+                                "terraapi-stg.samsungqbe.com"
+                            ],
+                            "Type": "AWS::ECS::Container",
+                            "EntityPath": [
+                                {
+                                    "Name": "terraapi-stg.samsungqbe.com",
+                                    "Coverage": 1.0,
+                                    "Remote": false
+                                },
+                                {
+                                    "Name": "osbstg.samsungqbe.com",
+                                    "Coverage": 0.756,
+                                    "Remote": true
+                                }
+                            ],
+                            "Inferred": false
+                        },
+                        {
+                            "Name": "osbstg.samsungqbe.com",
+                            "Names": [
+                                "osbstg.samsungqbe.com"
+                            ],
+                            "Type": "remote",
+                            "EntityPath": [
+                                {
+                                    "Name": "osbstg.samsungqbe.com",
+                                    "Coverage": 0.756,
+                                    "Remote": false
+                                }
+                            ],
+                            "Inferred": true
+                        }
+                    ],
+                    "ClientImpacting": true
+                }
+            ],
+            "Revision": 1
+        }
+    ]
+}

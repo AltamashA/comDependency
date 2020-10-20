@@ -1,0 +1,5262 @@
+[
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2847",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2847",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2847",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2847",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2334",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2334",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2334",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2334",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v1/contents/234083",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/program/234083"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v1/contents/234083",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/program/234083"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v1/contents/234083",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/program/234083"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v1/contents/234083",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/program/234083"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2656",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2656",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2656",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2656",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50049",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50049",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50049",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50049",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48346",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48346",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48346",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48346",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2698",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2698",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2698",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2698",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50025",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50025",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50025",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50025",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2653",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2653",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2653",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2653",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/836",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/836",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/836",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/836",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48345",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48345",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48345",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48345",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2654",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2654",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2654",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2654",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50047",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50047",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50047",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50047",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48350",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48350",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48350",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48350",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50057",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4C5HPJXPSSDNH"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/H5W3F6JJKBGD5"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50057",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4C5HPJXPSSDNH"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/H5W3F6JJKBGD5"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50057",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4C5HPJXPSSDNH"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/H5W3F6JJKBGD5"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50057",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4C5HPJXPSSDNH"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/H5W3F6JJKBGD5"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48338",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48338",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48338",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48338",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48344",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48344",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48344",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48344",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48327",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48327",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48327",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48327",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48339",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48339",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48339",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48339",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2687",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2687",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2687",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2687",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/IAA3MBYDJ2B4P"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361637/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918078/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2210222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361545/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/71408969/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2391426/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3676297/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/74453678/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/OUTBGB2EITIMJ"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442269/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740588/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2675773/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/64102861/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3371728/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/49193196/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845344/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2888531/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845341/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/68199255/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442270/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318652/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318654/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4QGF45FH5ZV4X"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/IAA3MBYDJ2B4P"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361637/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918078/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2210222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361545/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/71408969/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2391426/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3676297/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/74453678/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/OUTBGB2EITIMJ"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442269/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740588/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2675773/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/64102861/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3371728/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/49193196/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845344/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2888531/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845341/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/68199255/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442270/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318652/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318654/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4QGF45FH5ZV4X"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/IAA3MBYDJ2B4P"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361637/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918078/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2210222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361545/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/71408969/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2391426/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3676297/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/74453678/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/OUTBGB2EITIMJ"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442269/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740588/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2675773/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/64102861/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3371728/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/49193196/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845344/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2888531/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845341/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/68199255/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442270/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318652/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318654/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4QGF45FH5ZV4X"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/IAA3MBYDJ2B4P"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361637/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918078/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2210222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79361545/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/71408969/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2391426/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3676297/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/74453678/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/OUTBGB2EITIMJ"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442269/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740588/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2675773/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/64102861/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3371728/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/49193196/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845344/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2888531/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3845341/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/68199255/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2442270/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318652/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1318654/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "PATH": "/byii/4QGF45FH5ZV4X"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50046",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50046",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50046",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50046",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50042",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50042",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50042",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50042",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48341",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48341",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48341",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48341",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50040",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50040",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50040",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50040",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49484",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/GB/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49484",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/GB/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49484",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/GB/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49484",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/GB/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/777201/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/105108/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728176/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/762445/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776952/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1727993/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3228731/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673566/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307794/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590867/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776951/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307490/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79730132/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259824/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590871/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728188/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673333/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728155/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/53462/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259814/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1113924/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1114899/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/772070/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1300298/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/622191/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1376831/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100947/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441727/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2902852/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/533290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1537263/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1378838/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441718/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948501/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/773648/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1821012/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089305/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1457124/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1308193/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/3019571/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1104708/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1116249/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1108408/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441783/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1467142/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100034/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1106052/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1326980/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1184722/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/777201/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/105108/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728176/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/762445/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776952/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1727993/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3228731/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673566/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307794/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590867/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776951/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307490/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79730132/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259824/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590871/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728188/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673333/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728155/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/53462/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259814/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1113924/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1114899/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/772070/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1300298/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/622191/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1376831/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100947/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441727/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2902852/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/533290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1537263/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1378838/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441718/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948501/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/773648/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1821012/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089305/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1457124/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1308193/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/3019571/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1104708/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1116249/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1108408/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441783/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1467142/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100034/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1106052/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1326980/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1184722/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/777201/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/105108/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728176/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/762445/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776952/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1727993/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3228731/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673566/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307794/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590867/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776951/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307490/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79730132/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259824/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590871/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728188/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673333/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728155/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/53462/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259814/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1113924/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1114899/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/772070/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1300298/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/622191/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1376831/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100947/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441727/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2902852/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/533290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1537263/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1378838/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441718/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948501/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/773648/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1821012/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089305/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1457124/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1308193/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/3019571/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1104708/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1116249/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1108408/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441783/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1467142/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100034/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1106052/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1326980/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1184722/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/home",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2797811/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/429222/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5874252/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/777201/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73740560/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/105108/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728176/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/762445/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776952/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1727993/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3228731/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6383604/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673566/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723240/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307794/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590867/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2776951/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/62408780/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435081/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/2307490/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79730132/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259824/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/3590871/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/75435096/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728188/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/73673333/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1728155/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541970/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76723284/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/79918238/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/5656816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/53462/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/76541816/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/1259814/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1113924/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1114899/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/772070/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948819/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1300298/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/622191/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1376831/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100947/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441727/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2902852/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/533290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1537263/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1378838/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441718/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/2948501/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/773648/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/tvplus"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1821012/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089305/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1457124/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1089290/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1308193/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/3019571/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1104708/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1116249/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1108408/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1441783/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1467142/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1100034/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1106052/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1326980/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/program/1184722/lite"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/ongoing"
+            },
+            {
+                "METHOD": "POST",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/IT/recs/ongoing"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50023",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50023",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50023",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50023",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "osbstg.samsungqbe.com",
+                "PATH": "/eden/service/v2/US/recs/tvplus"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50052",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50052",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50052",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50052",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48348",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48348",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48348",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48348",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/qrycache/flush",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/qrycache/flush",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/qrycache/flush",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/qrycache/flush",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48343",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48343",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48343",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48343",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/92",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/92",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/92",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/92",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48340",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48340",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48340",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48340",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48342",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48342",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48342",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48342",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50045",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50045",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50045",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50045",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50043",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50043",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50043",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50043",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/contents/6252589",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6252589"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/contents/6252589",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6252589"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/contents/6252589",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6252589"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/contents/6252589",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/program/6252589"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50022",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50022",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50022",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50022",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2655",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2655",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2655",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2655",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50053",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50053",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50053",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50053",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48334",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48334",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48334",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48334",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IN/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IN/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IN/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/preview",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            },
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IN/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49478",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49478",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49478",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49478",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2708",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2708",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2708",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2708",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/297",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/297",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/297",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/297",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50041",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50041",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50041",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50041",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50054",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50054",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50054",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50054",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48337",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48337",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48337",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48337",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50055",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50055",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50055",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50055",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2688",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2688",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2688",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2688",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/86",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/86",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/86",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/86",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49477",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49477",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49477",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/49477",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/IT/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50056",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50056",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50056",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50056",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50048",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50048",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50048",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50048",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50051",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50051",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50051",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50051",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2697",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2697",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2697",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2697",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48347",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48347",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48347",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/48347",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/KR/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50039",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50039",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50039",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50039",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs/lite"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/supported",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/supported",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/supported",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/mobile/supported",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2689",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2689",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2689",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v2/groups/2689",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50044",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50044",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50044",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "GET",
+        "PATH": "/terra/service/v3/groups/50044",
+        "DESTINATION": [
+            {
+                "METHOD": "GET",
+                "SERVICE": "umdapi-stg.terra.internal",
+                "PATH": "/umd/service/v3/US/programs"
+            }
+        ]
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "POST",
+        "PATH": "/terra/service/v3/config",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "POST",
+        "PATH": "/terra/service/v3/config",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "POST",
+        "PATH": "/terra/service/v3/config",
+        "DESTINATION": []
+    },
+    {
+        "SOURCE": "terraapi-stg.samsungqbe.com",
+        "METHOD": "POST",
+        "PATH": "/terra/service/v3/config",
+        "DESTINATION": []
+    }
+]

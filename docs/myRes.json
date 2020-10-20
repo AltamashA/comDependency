@@ -1,0 +1,432 @@
+{
+    "GET": {
+        "/terra/service/v3/preview": {
+            "GET": {
+                "/terra/service/v3/preview": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal",
+                "/eden/service/v2/US/recs/tvplus": "osbstg.samsungqbe.com"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/297": {
+            "GET": {
+                "/terra/service/v2/groups/297": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2334": {
+            "GET": {
+                "/terra/service/v2/groups/2334": "terraapi-stg.samsungqbe.com"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2654": {
+            "GET": {
+                "/terra/service/v2/groups/2654": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/836": {
+            "GET": {
+                "/terra/service/v2/groups/836": "terraapi-stg.samsungqbe.com",
+                "/eden/service/v2/US/recs/tvplus": "osbstg.samsungqbe.com"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/92": {
+            "GET": {
+                "/terra/service/v2/groups/92": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2687": {
+            "GET": {
+                "/terra/service/v2/groups/2687": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50053": {
+            "GET": {
+                "/terra/service/v3/groups/50053": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50046": {
+            "GET": {
+                "/terra/service/v3/groups/50046": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2656": {
+            "GET": {
+                "/terra/service/v2/groups/2656": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/86": {
+            "GET": {
+                "/terra/service/v2/groups/86": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/48338": {
+            "GET": {
+                "/terra/service/v3/groups/48338": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/KR/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/home": {
+            "GET": {
+                "/terra/service/v2/home": "terraapi-stg.samsungqbe.com",
+                "/byii/XBZLZ3QTWH3CN": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal",
+                "/byii/YETH4CSQTQCFJ": "ug-ml-reco-stg.samsungcloudsolution.com",
+                "/byii/7UF4WSBYK6CIL": "ug-ml-reco-stg.samsungcloudsolution.com"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2698": {
+            "GET": {
+                "/terra/service/v2/groups/2698": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50043": {
+            "GET": {
+                "/terra/service/v3/groups/50043": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2655": {
+            "GET": {
+                "/terra/service/v2/groups/2655": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50049": {
+            "GET": {
+                "/terra/service/v3/groups/50049": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50048": {
+            "GET": {
+                "/terra/service/v3/groups/50048": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50022": {
+            "GET": {
+                "/terra/service/v3/groups/50022": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50052": {
+            "GET": {
+                "/terra/service/v3/groups/50052": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50025": {
+            "GET": {
+                "/terra/service/v3/groups/50025": "terraapi-stg.samsungqbe.com"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v1/preview": {
+            "GET": {
+                "/terra/service/v1/preview": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/programs/lite": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/home": {
+            "GET": {
+                "/terra/service/v3/home": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal",
+                "/eden/service/v2/US/recs/tvplus": "osbstg.samsungqbe.com",
+                "/umd/service/v3/KR/programs": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/6200459/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/78518347/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/73673673/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/4780228/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/2771863/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/1917474/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/70408364/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/1917477/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/1917467/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/1917470/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/78518329/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/78518340/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/76721507/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/75435243/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/180716/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/79919820/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/76721984/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/79176698/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/79362354/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/76723747/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/73673835/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/79728989/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/76723575/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/5983866/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/4780218/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/3845391/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/67276942/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/77905395/lite": "umdapi-stg.terra.internal",
+                "/umd/service/v3/US/program/110565/lite": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {
+                "/eden/service/v2/US/recs/ongoing": "osbstg.samsungqbe.com"
+            },
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50040": {
+            "GET": {
+                "/terra/service/v3/groups/50040": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2697": {
+            "GET": {
+                "/terra/service/v2/groups/2697": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50047": {
+            "GET": {
+                "/terra/service/v3/groups/50047": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50042": {
+            "GET": {
+                "/terra/service/v3/groups/50042": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2847": {
+            "GET": {
+                "/terra/service/v2/groups/2847": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs/lite": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50044": {
+            "GET": {
+                "/terra/service/v3/groups/50044": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50023": {
+            "GET": {
+                "/terra/service/v3/groups/50023": "terraapi-stg.samsungqbe.com",
+                "/eden/service/v2/US/recs/tvplus": "osbstg.samsungqbe.com"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50057": {
+            "GET": {
+                "/terra/service/v3/groups/50057": "terraapi-stg.samsungqbe.com",
+                "/byii/WL5UBZXBMHWFF": "ug-ml-reco-stg.samsungcloudsolution.com"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/preview": {
+            "GET": {
+                "/terra/service/v2/preview": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal",
+                "/eden/service/v2/US/recs/tvplus": "osbstg.samsungqbe.com",
+                "/umd/service/v3/US/programs/lite": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2708": {
+            "GET": {
+                "/terra/service/v2/groups/2708": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50041": {
+            "GET": {
+                "/terra/service/v3/groups/50041": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2707": {
+            "GET": {
+                "/terra/service/v2/groups/2707": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/48350": {
+            "GET": {
+                "/terra/service/v3/groups/48350": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/KR/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50055": {
+            "GET": {
+                "/terra/service/v3/groups/50055": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v2/groups/2688": {
+            "GET": {
+                "/terra/service/v2/groups/2688": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/48344": {
+            "GET": {
+                "/terra/service/v3/groups/48344": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/KR/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/48345": {
+            "GET": {
+                "/terra/service/v3/groups/48345": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/KR/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        },
+        "/terra/service/v3/groups/50054": {
+            "GET": {
+                "/terra/service/v3/groups/50054": "terraapi-stg.samsungqbe.com",
+                "/umd/service/v3/US/programs": "umdapi-stg.terra.internal"
+            },
+            "PUT": {},
+            "POST": {},
+            "DELETE": {}
+        }
+    },
+    "PUT": {},
+    "POST": {
+        "/terra/service/v2/config": {
+            "GET": {},
+            "PUT": {},
+            "POST": {
+                "/terra/service/v2/config": "terraapi-stg.samsungqbe.com"
+            },
+            "DELETE": {}
+        },
+        "/terra/service/v1/config": {
+            "GET": {},
+            "PUT": {},
+            "POST": {
+                "/terra/service/v1/config": "terraapi-stg.samsungqbe.com"
+            },
+            "DELETE": {}
+        }
+    },
+    "DELETE": {}
+}
